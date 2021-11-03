@@ -9,6 +9,8 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/emrullahhancer/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  
+  <a href="https://emrullahancer.medium.com/" title="Medium Profile">📫 Medium</a></code>
  
   <code><a href="https://stackoverflow.com/users/10828870/emrullah-hançer" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/emrullahancer/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
