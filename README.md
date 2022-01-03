@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Emrullah+HANCER....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+am+Emrullah+HANCER....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -17,7 +17,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I am Emrullah HANCER, iOS Developer from Turkey
+  I am Emrullah HANCER | iOS Developer
   <br>
   <br>
  
