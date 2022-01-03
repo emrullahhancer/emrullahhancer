@@ -17,7 +17,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Emrullah HANÇER, iOS Developer from Turkey
+  Hi, I am Emrullah HANCER, iOS Developer from Turkey
   <br>
   <br>
  
