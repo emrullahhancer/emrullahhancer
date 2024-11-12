@@ -1,42 +1,29 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=emrullahhancer.emrullahhancer">
+Hi there, I'm Emrullah Hancer 👋
 
+👨‍💻 About Me
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/emrullahhancer/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  
-  <a href="https://emrullahancer.medium.com/" title="Medium Profile">📫 Medium</a></code>
- 
-  <code><a href="https://stackoverflow.com/users/10828870/emrullah-hançer" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
-</h5>
-<br>
-<p align="center">
-  I am Emrullah HANCER | iOS Developer
-  <br>
-  <br>
- 
-  📫 How to reach me: <a href="mailto: emrullahancer@gmail.com">emrullahancer@gmail.com</a>
-</p>
+I'm an iOS Developer with over 4 years of experience in developing mobile applications using Swift and SwiftUI. Based in Dublin, I've been passionate about software for the past 6 years, focusing on iOS development to enhance user experiences and functionality in mobile applications. I hold an Associate's degree in Computer Science from İstanbul Aydın University.
 
+💼 Professional Experience
 
+iOS Developer at EPAM Systems (Oct 2019 - Dec 2022)
+iOS Developer at Sliprest (Jan 2018 - Oct 2020)
+iOS Developer at İnteraktif Yazılım (May 2017 - Aug 2018)
+Software Developer at Acarnet (Jan 2017 - May 2017)
+Software Developer at Sparfly (Jun 2016 - Dec 2016)
+Software Developer at Tanır Medya (Jun 2015 - Jun 2016)
+🌟 Key Skills
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages: Swift, SwiftUI
+Other Skills: iOS development, Firebase integration
+🗣️ Languages
 
-Here are some ideas to get you started:
+English: Professional Working Proficiency
+Turkish: Native or Bilingual
+📚 Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+iOS Notification with Firebase
+📫 Connect with Me
 
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
+Email: emrullahancer@gmail.com
+LinkedIn: Emrullah Hancer
